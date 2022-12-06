@@ -1,0 +1,62 @@
+body{
+   
+    font-family: 'Happy Monkey', cursive;
+    text-align: center;
+    color: #ffffff;
+    background: linear-gradient(skyblue,pink);
+}
+.image{
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+    border: 6px solid #EFB0C9;
+    margin-bottom: 10px;
+}
+#hear {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.common{
+    margin: 20px auto;
+    max-width: 400px;
+    height: 400px;
+    border: 6px solid white;
+    border-radius: 10px;
+    background-image: url("gift-430_512.gif");
+    background-size: cover;
+}
+
+#tt{
+    background: #EFB0C9;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin: 5px 0 10px 0;
+}
+#yy{
+    background: #EFB0C9;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin: 5px 0 10px 0;
+}
+
+.gift-section {
+    margin-top: 50px;
+}
+#runk:hover{
+    background-image: url("drunk.jfif");
+}
+#in:hover{
+    background-image: url("russian.jpg");
+   
+    
+}
+#surprise:hover{
+    background-image: url("ps4.webp");
+}
+#gori:hover{
+    background-image: url("RIP.jpg");
+}
+#highlight{
+    text-decoration: underline;
+}
